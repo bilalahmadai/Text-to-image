@@ -1,7 +1,7 @@
 
 # Text to Image Generation 🤗
 
-I have developed Text to Image Generation System like DAll. E leveraging the power of Stable Diffusion 🤗 that uses Flask and Free GPU (Colab) to get input and show an image after passing through the model.
+I have developed Text to Image Generation System like DALL.E leveraging the power of Stable Diffusion 🤗 that uses Flask and Free GPU (Colab) to get input and show an image after passing through the model.
 
 ![Cover](https://github.com/bilalansar3/Text-to-image/blob/main/asset/cover.png)
 
